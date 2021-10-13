@@ -1,6 +1,6 @@
-.col-sm{
-    background-color: cadetblue;
+.img{
+    width: 100%;
 }
-.col-md{
-    background-color: cadetblue;
+.container{
+    max-width: 85%;
 }
