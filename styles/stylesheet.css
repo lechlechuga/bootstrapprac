@@ -4,3 +4,19 @@
 .container{
     max-width: 85%;
 }
+.card {
+    max-width: 100%;
+    max-height: auto;
+}
+.heroimage{
+    height: 100vh;
+}
+
+.parallax{
+    background-image: url("/img/1.png");
+    min-height: 1000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:repeat;
+    background-size: cover;
+}
