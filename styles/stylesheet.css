@@ -1,3 +1,15 @@
+@font-face {
+    font-family: 'Anaktoria Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Anaktoria Regular'), url('Anaktoria_hint.woff') format('woff');
+}
+h1{
+    font-family: anakoria regular;
+}
+
+
+
 .img{
     width: 100%;
 }
