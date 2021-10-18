@@ -2,10 +2,10 @@
     font-family: 'Anaktoria Regular';
     font-style: normal;
     font-weight: normal;
-    src: local('Anaktoria Regular'), url('Anaktoria_hint.woff') format('woff');
+    src: url(/fonts/Anaktoria.woff);
 }
 h1{
-    font-family: anakoria regular;
+    font-family: 'anakoria regular';
 }
 
 
